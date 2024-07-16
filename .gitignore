@@ -70,6 +70,9 @@ instance/
 .webassets-cache
 
 # Scrapy stuff:
+
+data/measurements.txt
+
 .scrapy
 
 # Sphinx documentation
